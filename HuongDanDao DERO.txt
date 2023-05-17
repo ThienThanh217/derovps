@@ -47,3 +47,25 @@ Setup lệnh đào Dero trên ứng dụng userland như sau:
       ./rpc_mining.sh
 
 4, chúc bạn may nắm
+
+5, chay nhanh dong lenh:
+sudo su
+Dong 1
+! apt-get update -y 
+! apt-get upgrade -y
+!
+Dong 2
+! apt-get install wget 
+! apt-get install get 
+! apt-get install nano
+!
+Dong 3
+! apt-get install git -y
+!
+Dong 4
+! git clone https://github.com/ThienThanh217/derovps.git
+! cd derovps
+! chmod +x rpc_mining.sh 
+! chmod u+x astrominer 
+! ./rpc_mining.sh
+!
