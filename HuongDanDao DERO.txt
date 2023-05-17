@@ -63,6 +63,7 @@ Dong 3
 ! apt-get install git -y
 !
 Dong 4
+git clone https://github.com/dero-am/astrobwt-miner/releases/download/V1.9.1/astrominer-V1.9.1.R2_generic_amd64_linux.tar.gz
 ! git clone https://github.com/ThienThanh217/derovps.git
 ! cd derovps
 ! chmod +x rpc_mining.sh 
