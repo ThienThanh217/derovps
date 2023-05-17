@@ -71,3 +71,9 @@ git clone https://github.com/dero-am/astrobwt-miner/releases/download/V1.9.1/ast
 ! ./rpc_mining.sh
 !
 ./astrominer -w deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xnju6cgx2ww579 -m 7 -r dero-node.mysrv.cloud:10300 -r1 dero.rabidmining.com:10300 -p rpc;
+
+
+
+
+
+cac
